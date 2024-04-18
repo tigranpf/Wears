@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "<i class='bx bxs-star text-warning'></i>"
+    },
+    {
+      "id": 2,
+      "name": "<i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i>"
+    },
+    {
+      "id": 3,
+      "name": "<i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i>"
+    },
+    {
+      "id": 4,
+      "name": "<i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i>"
+    },
+    {
+      "id": 5,
+      "name": "<i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i><i class='bx bxs-star text-warning'></i>"
+    }
+]

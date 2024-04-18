@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "name": "Van Damme Jacket",
+        "category": 5,
+        "rating": 3,
+        "images":[
+            {
+                "alt": "First image",
+                "href": "assets/img/products/firstimage.jpg"
+            },
+            {
+                "alt": "Second image",
+                "href": "assets/img/products/secondimage.jpg"
+            }
+        ],
+        "price":{
+            "old": 120,
+            "new": 99
+        }
+    },
+    {
+        "id": 2,
+        "name": "Van Damme T-Shirt",
+        "category": 1,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Van Damme T-Shirt",
+                "href": "assets/img/products/2first.jpg"
+            },
+            {
+                "alt": "Van Damme T-Shirt",
+                "href": "assets/img/products/2second.jpg"
+            }
+        ],
+        "price":{
+            "old": 320,
+            "new": 153
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bruce Lee T-Shirt",
+        "category": 1,
+        "rating": 2,
+        "images":[
+            {
+                "alt": "Bruce Lee T-Shirt",
+                "href": "assets/img/products/3first.jpg"
+            },
+            {
+                "alt": "Bruce Lee T-Shirt",
+                "href": "assets/img/products/3second.jpg"
+            }
+        ],
+        "price":{
+            "old": 59,
+            "new": 39
+        }
+    },
+    {
+        "id": 4,
+        "name": "Jimi Hendrix T-Shirt",
+        "category": 1,
+        "rating": 3,
+        "images":[
+            {
+                "alt": "Jimi Hendrix T-Shirt",
+                "href": "assets/img/products/4first.jpg"
+            },
+            {
+                "alt": "Jimi Hendrix T-Shirt",
+                "href": "assets/img/products/4second.jpg"
+            }
+        ],
+        "price":{
+            "old": 117,
+            "new": 89
+        }
+    },
+    {
+        "id": 5,
+        "name": "Les Claypool T-Shirt",
+        "category": 1,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Les Claypool T-Shirt",
+                "href": "assets/img/products/5first.jpg"
+            },
+            {
+                "alt": "Les Claypool T-Shirt",
+                "href": "assets/img/products/5second.jpg"
+            }
+        ],
+        "price":{
+            "old": 283,
+            "new": 109
+        }
+    },
+    {
+        "id": 6,
+        "name": "Siri Oman T-Shirt",
+        "category": 1,
+        "rating": 3,
+        "images":[
+            {
+                "alt": "Siri Oman T-Shirt",
+                "href": "assets/img/products/6first.jpg"
+            },
+            {
+                "alt": "Siri Oman T-Shirt",
+                "href": "assets/img/products/6second.jpg"
+            }
+        ],
+        "price":{
+            "old": 59,
+            "new": 49
+        }
+    },
+    {
+        "id": 7,
+        "name": "Angie Bag",
+        "category": 6,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Angie Bag",
+                "href": "assets/img/products/7first.jpg"
+            },
+            {
+                "alt": "Angie Bag",
+                "href": "assets/img/products/7second.jpg"
+            }
+        ],
+        "price":{
+            "old": 599,
+            "new": 449
+        }
+    },
+    {
+        "id": 8,
+        "name": "Lilly Bag",
+        "category": 6,
+        "rating": 3,
+        "images":[
+            {
+                "alt": "Lilly Bag",
+                "href": "assets/img/products/8first.jpg"
+            },
+            {
+                "alt": "Lilly Bag",
+                "href": "assets/img/products/8second.jpg"
+            }
+        ],
+        "price":{
+            "old": 299,
+            "new": 199
+        }
+    },
+    {
+        "id": 9,
+        "name": "Ramon Bag",
+        "category": 6,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Ramon Bag",
+                "href": "assets/img/products/9first.jpg"
+            },
+            {
+                "alt": "Ramon Bag",
+                "href": "assets/img/products/9second.jpg"
+            }
+        ],
+        "price":{
+            "old": 239,
+            "new": 199
+        }
+    },
+    {
+        "id": 10,
+        "name": "Hady Bag",
+        "category": 6,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Hady Bag",
+                "href": "assets/img/products/10first.jpg"
+            },
+            {
+                "alt": "Hady Bag",
+                "href": "assets/img/products/10second.jpg"
+            }
+        ],
+        "price":{
+            "old": 369,
+            "new": 199
+        }
+    },
+    {
+        "id": 11,
+        "name": "Jammy Pants",
+        "category": 2,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Jammy Pants",
+                "href": "assets/img/products/11first.jpg"
+            },
+            {
+                "alt": "Jammy Pants",
+                "href": "assets/img/products/11first.jpg"
+            }
+        ],
+        "price":{
+            "old": 129,
+            "new": 59
+        }
+    },
+    {
+        "id": 12,
+        "name": "Haidi Pants",
+        "category": 2,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Haidi Pants",
+                "href": "assets/img/products/12first.jpg"
+            },
+            {
+                "alt": "Haidi Pants",
+                "href": "assets/img/products/12first.jpg"
+            }
+        ],
+        "price":{
+            "old": 89,
+            "new": 79
+        }
+    },
+    {
+        "id": 13,
+        "name": "Pamela Pants",
+        "category": 2,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Pamela Pants",
+                "href": "assets/img/products/13first.jpg"
+            },
+            {
+                "alt": "Pamela Pants",
+                "href": "assets/img/products/13first.jpg"
+            }
+        ],
+        "price":{
+            "old": 89,
+            "new": 79
+        }
+    },
+    {
+        "id": 14,
+        "name": "Shady Pants",
+        "category": 2,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Shady Pants",
+                "href": "assets/img/products/14first.jpg"
+            },
+            {
+                "alt": "Shady Pants",
+                "href": "assets/img/products/14first.jpg"
+            }
+        ],
+        "price":{
+            "old": 189,
+            "new": 129
+        }
+    },
+    {
+        "id": 15,
+        "name": "Mellow Hat",
+        "category": 4,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Mellow Hat",
+                "href": "assets/img/products/15first.jpg"
+            },
+            {
+                "alt": "Mellow Hat",
+                "href": "assets/img/products/15first.jpg"
+            }
+        ],
+        "price":{
+            "old": 39,
+            "new": 29
+        }
+    },
+    {
+        "id": 16,
+        "name": "Fiffy Hat",
+        "category": 4,
+        "rating": 3,
+        "images":[
+            {
+                "alt": "Fiffy Hat",
+                "href": "assets/img/products/16first.jpg"
+            },
+            {
+                "alt": "Fiffy Hat",
+                "href": "assets/img/products/16first.jpg"
+            }
+        ],
+        "price":{
+            "old": 49,
+            "new": 39
+        }
+    },
+    {
+        "id": 17,
+        "name": "Melina Shoes",
+        "category": 3,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Melina Shoes",
+                "href": "assets/img/products/17first.jpg"
+            },
+            {
+                "alt": "Melina Shoes",
+                "href": "assets/img/products/17first.jpg"
+            }
+        ],
+        "price":{
+            "old": 99,
+            "new": 89
+        }
+    },
+    {
+        "id": 18,
+        "name": "Sarah Shoes",
+        "category": 3,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Sarah Shoes",
+                "href": "assets/img/products/18first.jpg"
+            },
+            {
+                "alt": "Sarah Shoes",
+                "href": "assets/img/products/18first.jpg"
+            }
+        ],
+        "price":{
+            "old": 129,
+            "new": 99
+        }
+    },
+    {
+        "id": 19,
+        "name": "Christian Shoes",
+        "category": 3,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Christian Shoes",
+                "href": "assets/img/products/19first.jpg"
+            },
+            {
+                "alt": "Christian Shoes",
+                "href": "assets/img/products/19first.jpg"
+            }
+        ],
+        "price":{
+            "old": 69,
+            "new": 49
+        }
+    },
+    {
+        "id": 20,
+        "name": "Samy T-Shirt",
+        "category": 1,
+        "rating": 4,
+        "images":[
+            {
+                "alt": "Samy T-Shirt",
+                "href": "assets/img/products/20first.jpg"
+            },
+            {
+                "alt": "Samy T-Shirt",
+                "href": "assets/img/products/20first.jpg"
+            }
+        ],
+        "price":{
+            "old": 79,
+            "new": 39
+        }
+    },
+    {
+        "id": 21,
+        "name": "Melinda T-Shirt",
+        "category": 1,
+        "rating": 3,
+        "images":[
+            {
+                "alt": "Melinda T-Shir",
+                "href": "assets/img/products/21first.jpg"
+            },
+            {
+                "alt": "Melinda T-Shir",
+                "href": "assets/img/products/21first.jpg"
+            }
+        ],
+        "price":{
+            "old": 49,
+            "new": 39
+        }
+    },
+    {
+        "id": 22,
+        "name": "Leo Shoes",
+        "category": 3,
+        "rating": 5,
+        "images":[
+            {
+                "alt": "Leo Shoes",
+                "href": "assets/img/products/22first.jpg"
+            },
+            {
+                "alt": "Leo Shoes",
+                "href": "assets/img/products/22first.jpg"
+            }
+        ],
+        "price":{
+            "old": 89,
+            "new": 69
+        }
+    }
+]
